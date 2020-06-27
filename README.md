@@ -34,8 +34,8 @@ Aplicacion UCE-APP-MOBILE
 # Installation
 FrontEnd:
 
-`cd ISPMOVIL`
-`npm install`
+`cd ISPMOVIL
+npm install`
 
 # Developmente Setup
 
@@ -46,6 +46,7 @@ Para ejecutar la aplicacion es necesario abrir la terminal del editor de codigo 
 # Release History
 
 - 0.0.1 
+  
   Trabajo en curso
 
 # Meta
