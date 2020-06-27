@@ -30,3 +30,23 @@ Aplicacion UCE-APP-MOBILE
 ![User-5](https://user-images.githubusercontent.com/48730022/85914073-1a607680-b808-11ea-9956-4c8e29851bfe.PNG)
 ![User-6](https://user-images.githubusercontent.com/48730022/85914075-1af90d00-b808-11ea-8566-31048b1b8d02.PNG)
 ![User-7](https://user-images.githubusercontent.com/48730022/85914077-1af90d00-b808-11ea-8328-b7f8af384d4e.PNG)
+
+# Installation
+FrontEnd:
+
+cd ISPMOVIL
+npm install
+
+# Developmente Setup
+
+Para ejecutar la aplicacion es necesario abrir la terminal del editor de codigo y escribir el siguiente comando
+
+npx react-native run-android
+
+# Release History
+
+- 0.0.1 
+  Trabajo en curso
+  
+# Meta
+Einar David Villarroel Vargas
